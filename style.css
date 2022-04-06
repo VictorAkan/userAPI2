@@ -1,0 +1,47 @@
+p {
+    margin-bottom: 0;
+}
+.g-1 {
+    gap: 1rem;
+}
+a {
+    color: grey !important;
+    font-size: small;
+}
+i {
+    cursor: pointer;
+}
+.flexedDivImage {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+.mainDiv {
+    width: 700px;
+    margin: 0px auto;
+}
+.t-rt-div {
+    justify-content: space-between;
+}
+.c-d-div {
+    border-radius: 4px;
+}
+.like-down-btn {
+    border: none !important;
+    background: transparent !important;
+    margin-left: 35px;
+}
+.reply-down-btn {
+    border: none !important;
+    background: transparent !important;
+    margin-left: 15px;
+}
+.comment-down-btn {
+    border: none !important;
+    border-radius: 10px;
+    padding-right: 30px;
+    color: grey;
+}
+.comment-top {
+    margin-top: 12px;
+}
